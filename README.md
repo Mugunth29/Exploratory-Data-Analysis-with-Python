@@ -13,3 +13,6 @@
               
          This data analysis process of a movie dataset obtained from the IMDb database. The aim of this analysis is to 
          visualize the various features and answer the following questions
+ 3. [Netflix EDA]()
+  
+  The Netflix dataset has information about the tv shows and movies available on netflix till 2021
