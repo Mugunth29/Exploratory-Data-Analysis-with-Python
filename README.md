@@ -12,4 +12,4 @@
 2. [IMDB Movie](https://github.com/Mugunth29/Exploratory-Data-Analysis-with-Python/tree/main/IMDB%20(EDA))
               
          This data analysis process of a movie dataset obtained from the IMDb database. The aim of this analysis is to 
-         visualize the various features and answer the following questions:
+         visualize the various features and answer the following questions
