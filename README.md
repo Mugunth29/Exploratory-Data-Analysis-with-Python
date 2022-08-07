@@ -5,5 +5,4 @@
   
   
   # Projects
-  
-[GooglePlayStore](https://github.com/Mugunth29/Exploratory-Data-Analysis-with-Python/tree/main/GooglePlaystore)
+  1. [GooglePlayStore](https://github.com/Mugunth29/Exploratory-Data-Analysis-with-Python/tree/main/GooglePlaystore)
