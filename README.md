@@ -9,3 +9,4 @@
                   
          This project is to deliver insights to understand customer demands better and thus help developers to 
          popularize the product(App).
+2.[IMDB Movie](https://github.com/Mugunth29/Exploratory-Data-Analysis-with-Python/tree/main/IMDB%20(EDA))
